@@ -91,4 +91,3 @@ Feel free to submit issues and enhancement requests!
 
 ---
 
-Built with ❤️ by Anwar Hussain
