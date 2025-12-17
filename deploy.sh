@@ -27,4 +27,4 @@ git push origin gh-pages --force
 git checkout main
 git branch -D gh-pages
 
-echo "Deployment completed! Your site should be available at https://your-github-username.github.io/Hashir-Qureshi-Portfolio/" 
+echo "Deployment completed! Your site should be available at https://your-github-username.github.io/hashir-portfolio/" 
