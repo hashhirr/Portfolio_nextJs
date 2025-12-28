@@ -61,29 +61,6 @@ npm run deploy
 ```
 2. Deploy to GitHub Pages or any static hosting service.
 
-### Vercel/Netlify
-
-- Connect your GitHub repository to Vercel or Netlify for automatic deployments.
-
-## 📁 Project Structure
-
-```
-src/
-├── components/          # React components
-│   ├── canvas/         # Three.js 3D components
-│   └── ...
-├── assets/             # Images and static assets
-├── constants/          # Configuration constants
-├── utils/              # Utility functions
-└── styles.js           # Global styles
-```
-
-## 🎨 Customization
-
-- Update personal information in `src/constants/index.js`
-- Modify 3D models in `public/` directory
-- Customize styling in `src/styles.js` and Tailwind config
-- Add new sections in `src/components/`
 
 ## 📝 License
 
